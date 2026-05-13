@@ -1,4 +1,4 @@
-Reto02 - FrontEnd
+##Reto02 - FrontEnd
 Este proyecto simula el flujo de trabajo de una cafetería utilizando JavaScript Asíncrono. Se enfoca en el uso de Promesas, setTimeout para simular tiempos de espera y la sintaxis async/await para orquestar el proceso.
 
 Funcionalidades
